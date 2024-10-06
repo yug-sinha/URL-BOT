@@ -133,7 +133,7 @@ http://localhost:3000
 
 Here’s a video demonstration of the application: 
 
-https://github.com/user-attachments/assets/11fb39b8-88ee-450c-86cf-d77ad0c3c0ed
+https://github.com/user-attachments/assets/eb333ed9-2e66-475a-831d-af766dad634a
 
 ## License
 
