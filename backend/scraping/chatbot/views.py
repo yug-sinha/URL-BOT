@@ -6,7 +6,7 @@ import requests
 import google.generativeai as genai
 
 # Configure the Google AI SDK with your API key directly
-GEMINI_API_KEY = "AIzaSyBkT-Otx77vXL0YitgtN6bXcKQEwch55o0"  # Update with your specified key
+GEMINI_API_KEY = "YOUR_API_KEY"  # Update with your specified key
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Dictionary to hold the scraped data temporarily
