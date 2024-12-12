@@ -10,37 +10,34 @@ This project is a URL scraping chatbot application built with React, Django, and
 2. **TypeScript**
    - A superset of JavaScript that adds static typing to the language, enhancing the development experience.
 
-3. **Node.js**
-   - A JavaScript runtime built on Chrome's V8 engine, allowing JavaScript to be used for server-side programming.
-
-4. **Django**
+3. **Django**
    - A high-level Python web framework that encourages rapid development and clean, pragmatic design for building web applications.
 
-5. **FastAPI**
+4. **FastAPI**
    - A modern, fast web framework for building APIs with Python, known for its performance and ease of use.
 
-6. **ChromaDB**
+5. **ChromaDB**
    - A vector database designed for machine learning and AI applications, used for efficient storage and retrieval of data.
 
-7. **Google Gemini API**
+6. **Google Gemini API**
    - An AI-powered API from Google for natural language processing and interaction capabilities.
 
-8. **CSS**
+7. **CSS**
    - A stylesheet language used for styling the application.
 
-9. **HTML**
+8. **HTML**
    - The standard markup language for creating web pages, used to define the structure of the application.
 
-10. **JavaScript**
+9. **JavaScript**
     - The programming language enabling interactive web pages and dynamic functionality.
 
-11. **Fetch API**
+10. **Fetch API**
     - A modern interface for making HTTP requests in JavaScript, used for communicating with the backend.
 
-12. **npm (Node Package Manager)**
+11. **npm (Node Package Manager)**
     - A package manager for JavaScript, used to manage project dependencies.
 
-13. **Version Control (e.g., Git)**
+12. **Version Control (e.g., Git)**
     - A system that tracks changes to files over time, allowing for version control and collaboration.
 
 ## Installation Instructions
